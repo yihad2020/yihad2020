@@ -35,7 +35,7 @@ WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhook
 ### RochiNet
 B2B commerce and operations mobile application built with React Native and Expo, integrating product catalog, inventory availability, customer accounts, order workflows and backend services.
 
-### FAMA One
+### FAMA
 Student Information System supporting enrollment, scheduling, cohorts, payments and academic operations with CRM and LMS integrations.
 
 ### POSible
