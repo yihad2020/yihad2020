@@ -1,6 +1,6 @@
 # Hi, I'm Yihad!
 
-### Product Engineer · Full-Stack Software Engineer
+### Full-Stack Software Engineer
 
 I build production business systems, internal tools, integrations, e-commerce platforms, and mobile/web applications from requirements through deployment.
 
