@@ -1,4 +1,4 @@
-# Hi, I'm Yihad Salek 👋
+# Hi, I'm Yihad!
 
 ### Product Engineer · Full-Stack Software Engineer
 
