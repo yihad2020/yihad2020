@@ -56,7 +56,7 @@ An internal photo booth operations app and a separate custom CRM I personally bu
 
 https://xpressdjs.com/
 
-### Contratame
+### Contratame (Under Development)
 A mobile-first marketplace connecting clients with local service professionals in Bolivia, supported by a web administration platform for managing professional profiles, approvals and location-based operations.
 
 ## Connect
