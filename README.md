@@ -9,13 +9,13 @@ Currently working across full-stack product development, operational software, A
 ## Core Stack
 
 **Frontend**
-React · Next.js · TypeScript · React Native · Expo
+React · Next.js · TypeScript · React Native · Vue · Expo
 
 **Backend**
-Node.js · Python · PHP · Laravel · REST APIs
+Node.js · Python · PHP · Laravel · REST APIs · C#
 
 **Data**
-PostgreSQL · MySQL · Supabase
+PostgreSQL · MySQL · Supabase · SQL Server
 
 **Platforms & Integrations**
 WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhooks
@@ -23,6 +23,8 @@ WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhook
 ## What I Build
 
 - Production business systems
+- AI Agents and Orchestration
+- Efficient Pipelines and Workflows
 - Internal operational tools
 - B2B commerce platforms
 - API & third-party integrations
@@ -30,16 +32,22 @@ WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhook
 - Workflow automation
 - E-commerce systems
 
-## Selected Work
+## Quick Links
 
-### RochiNet
+### Rochi
 B2B commerce and operations mobile application built with React Native and Expo, integrating product catalog, inventory availability, customer accounts, order workflows and backend services.
+
+https://rochionline.com/
 
 ### FAMA
 Student Information System supporting enrollment, scheduling, cohorts, payments and academic operations with CRM and LMS integrations.
 
-### POSible
-Web-based point-of-sale platform for local businesses, supporting sales, products, reporting and operational workflows.
+https://famaedu.com/
+
+### XpressDJ
+An internal photo booth operations app and a separate custom CRM I personally built for Xpress DJ.
+
+https://xpressdjs.com/
 
 ## Connect
 
