@@ -20,6 +20,13 @@ PostgreSQL · MySQL · Supabase · SQL Server
 **Platforms & Integrations**
 WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhooks
 
+**AI Tools**
+ChatGPT/Codex · Claude Code · Grok · Lovable
+
+**Cloud, Deployment Environments and Miscelaneous**
+AWS · Vercel · Netlify · Docker · Kubernetes
+
+
 ## What I Build
 
 - Production business systems
@@ -48,6 +55,9 @@ https://famaedu.com/
 An internal photo booth operations app and a separate custom CRM I personally built for Xpress DJ.
 
 https://xpressdjs.com/
+
+### Contratame
+A mobile-first marketplace connecting clients with local service professionals in Bolivia, supported by a web administration platform for managing professional profiles, approvals and location-based operations.
 
 ## Connect
 
