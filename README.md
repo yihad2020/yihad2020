@@ -1,65 +1,30 @@
-# Hi, I'm Yihad!
+# Yihad Salek
 
-### Full-Stack Software Engineer
+Full-stack software engineer building business systems, internal tools, integrations, and web and mobile applications.
 
-I build production business systems, internal tools, integrations, e-commerce platforms, and mobile/web applications from requirements through deployment.
+[Portfolio](https://yihadsalek.vercel.app) · [LinkedIn](https://www.linkedin.com/in/yihadsalek/)
 
-Currently working across full-stack product development, operational software, APIs, workflow automation, and third-party integrations.
+## Selected repositories
 
-## Core Stack
+| Project | Description |
+| --- | --- |
+| [Multi-Tenant Ingestion](https://github.com/yihad2020/multi-tenant-ingestion) | TypeScript and PostgreSQL ingestion, replay safety, tenant isolation and operational monitoring. |
+| [Revenue Reconciliation](https://github.com/yihad2020/revenue-reconciliation) | Python and pandas financial reconciliation with a reporting dashboard. |
+| [CSV Import Guardian](https://github.com/yihad2020/csv-import-guardian) | Browser-based CSV validation, reusable import rules and cleanup previews. |
+| [TDEE Calculator](https://github.com/yihad2020/TDEE-Calculator) | Interactive energy expenditure calculator. [Demo](https://tdee-101.vercel.app) |
+| [Production Panic](https://github.com/yihad2020/production-panic) | React and Express incident-response game. [Demo](https://production-panic.vercel.app) |
+| [Kill the Duck](https://github.com/yihad2020/killTheDuck) | Browser arcade game built with HTML, CSS and JavaScript. |
 
-**Frontend**
-React · Next.js · TypeScript · React Native · Vue · Expo
+## Professional work
 
-**Backend**
-Node.js · Python · PHP · Laravel · REST APIs · C#
+- [Rochi Online](https://rochionline.com/) — B2B commerce, inventory, customer accounts and mobile order workflows.
+- [FAMA](https://famaedu.com/) — student information, scheduling, clinical booking and academic operations with CRM and LMS integrations.
+- [XpressDJ](https://xpressdjs.com/) — internal photo booth operations application and custom CRM.
 
-**Data**
-PostgreSQL · MySQL · Supabase · SQL Server
+## Technical stack
 
-**Platforms & Integrations**
-WordPress · WooCommerce · GoHighLevel · Moodle · Stripe · PayPal · Webhooks
-
-**AI Tools**
-ChatGPT/Codex · Claude Code · Grok · Lovable
-
-**Cloud, Deployment Environments and Miscelaneous**
-AWS · Vercel · Netlify · Docker · Kubernetes
-
-
-## What I Build
-
-- Production business systems
-- AI Agents and Orchestration
-- Efficient Pipelines and Workflows
-- Internal operational tools
-- B2B commerce platforms
-- API & third-party integrations
-- Mobile applications
-- Workflow automation
-- E-commerce systems
-
-## Quick Links
-
-### Rochi
-B2B commerce and operations mobile application built with React Native and Expo, integrating product catalog, inventory availability, customer accounts, order workflows and backend services.
-
-https://rochionline.com/
-
-### FAMA
-Student Information System supporting enrollment, scheduling, cohorts, payments and academic operations with CRM and LMS integrations.
-
-https://famaedu.com/
-
-### XpressDJ
-An internal photo booth operations app and a separate custom CRM I personally built for Xpress DJ.
-
-https://xpressdjs.com/
-
-### Contratame (Under Development)
-A mobile-first marketplace connecting clients with local service professionals in Bolivia, supported by a web administration platform for managing professional profiles, approvals and location-based operations.
-
-## Connect
-
-🌐 Portfolio: https://yihadsalek.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/yihadsalek/
+- Frontend: React, Next.js, TypeScript, Vue, React Native, Expo
+- Backend: Node.js, Python, PHP, Laravel, C#, REST APIs
+- Data: PostgreSQL, MySQL, Supabase, SQL Server
+- Infrastructure: AWS, Docker, Vercel
+- Integrations: Stripe, PayPal, WooCommerce, Moodle, GoHighLevel, webhooks
